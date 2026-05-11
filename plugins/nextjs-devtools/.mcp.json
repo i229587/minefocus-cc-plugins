@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "nextjs": {
+      "command": "npx.cmd",
+      "args": [
+        "-y",
+        "next-devtools-mcp@latest"
+      ]
+    }
+  }
+}

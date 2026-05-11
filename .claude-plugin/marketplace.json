@@ -57,6 +57,36 @@
           "startupTimeout": 120000
         }
       }
+    },
+    {
+      "name": "shadcn-devtools",
+      "description": "UI component library for building beautiful, accessible React applications with Tailwind CSS.",
+      "author": {
+        "name": "shadcn"
+      },
+      "category": "development",
+      "source": "./plugins/shadcn-ui",
+      "homepage": "https://cloud.google.com/alloydb"
+    },
+    {
+      "name": "nextjs-devtools",
+      "description": "React framework for building full-stack web applications with server-side rendering and static site generation.",
+      "author": {
+        "name": "nextjs"
+      },
+      "category": "development",
+      "source": "./plugins/nextjs-devtools",
+      "homepage": "https://nextjs.org/"
+    },
+    {
+      "name": "dhtmlx-devtools",
+      "description": "DHTMLX JavaScript UI library for building enterprise-grade web applications with rich widgets and data components.",
+      "author": {
+        "name": "dhtmlx"
+      },
+      "category": "development",
+      "source": "./plugins/dhtmlx",
+      "homepage": "https://dhtmlx.com/"
     }
   ]
 }

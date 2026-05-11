@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dhtmlx": {
+      "type": "http",
+      "url": "https://docs.dhtmlx.com/mcp"
+    }
+  }
+}
