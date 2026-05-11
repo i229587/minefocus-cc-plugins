@@ -50,7 +50,7 @@
       "strict": false,
       "lspServers": {
         "jdtls": {
-          "command": "jdtls.cmd",
+          "command": "jdtls.bat",
           "extensionToLanguage": {
             ".java": "java"
           },
