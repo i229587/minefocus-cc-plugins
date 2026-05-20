@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "minefocus-cc-plugins",
+  "name": "MFP",
   "description": "Directory of popular Claude Code extensions including development tools, productivity plugins, and MCP integrations",
   "owner": {
     "name": "minefocus",
@@ -15,7 +15,7 @@
         "name": "Anthropic",
         "email": "support@anthropic.com"
       },
-      "source": "./plugins/typescript-lsp",
+      "source": "./plugins/win-typescript-lsp",
       "category": "development",
       "strict": false,
       "lspServers": {
@@ -45,7 +45,7 @@
         "name": "Anthropic",
         "email": "support@anthropic.com"
       },
-      "source": "./plugins/jdtls-lsp",
+      "source": "./plugins/win-jdtls-lsp",
       "category": "development",
       "strict": false,
       "lspServers": {

@@ -1,5 +1,5 @@
 ---
-name: nextjs-devtools-mcp
+name: nextjs-devtools
 description: Use whenever working with Next.js 16+ — user-reported errors (hydration, build, type, runtime), concept/API questions (`'use client'`, Server Actions, RSC, App Router, caching, routing, middleware/proxy, i18n, metadata), upgrades or migrations to Next.js 16, browser-based page verification, or any time you're about to write/edit Next.js code and aren't 100% certain the current API, file name, or pattern. Next.js 16 has breaking changes from training-data Next.js, so guessing is unsafe — trigger even when the user doesn't mention "MCP".
 ---
 
