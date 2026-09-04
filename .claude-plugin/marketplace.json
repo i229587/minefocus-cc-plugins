@@ -12,8 +12,8 @@
       "description": "TypeScript/JavaScript language server for enhanced code intelligence on Windows.",
       "version": "1.0.0",
       "author": {
-        "name": "Anthropic",
-        "email": "support@anthropic.com"
+        "name": "ws",
+        "email": "jmh.tools@hotmail.com"
       },
       "source": "./plugins/win-typescript-lsp",
       "category": "development",
@@ -42,8 +42,8 @@
       "description": "Java language server (Eclipse JDT.LS) for code intelligence on Windows.",
       "version": "1.0.0",
       "author": {
-        "name": "Anthropic",
-        "email": "support@anthropic.com"
+        "name": "ws",
+        "email": "jmh.tools@hotmail.com"
       },
       "source": "./plugins/win-jdtls-lsp",
       "category": "development",
